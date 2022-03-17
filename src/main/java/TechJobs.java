@@ -130,7 +130,7 @@ public class TechJobs {
             for(Map.Entry<String, String> detail:job.entrySet()){
                 System.out.println(detail.getKey()+": "+detail.getValue());
             }
-            System.out.println("*****\n");
+            System.out.println("*****");
         }
     }
 }
